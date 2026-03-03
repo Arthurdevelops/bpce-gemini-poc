@@ -345,6 +345,10 @@ const OpFeatures: React.FC = () => {
             title="Secure Prompting"
             description="Our AI models are trained with data privacy at the core. Your code never leaves the secure BPCE perimeter."
           />
+          <OpFeature
+            title="PR Analysis & Report"
+            description="Reads and analyses any GitHub Pull Request in depth — code changes, reviewers, comments — and generates a detailed Markdown report with a quality summary, risk areas, and actionable recommendations."
+          />
         </div>
       </div>
     </section>
