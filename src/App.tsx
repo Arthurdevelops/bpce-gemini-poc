@@ -345,6 +345,10 @@ const OpFeatures: React.FC = () => {
             title="Secure Prompting"
             description="Our AI models are trained with data privacy at the core. Your code never leaves the secure BPCE perimeter."
           />
+          <OpFeature
+            title="Git PR Generator"
+            description="Automates pull request creation from your current branch with a clear title and structured description from the actual diff."
+          />
         </div>
       </div>
     </section>
