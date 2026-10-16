@@ -177,4 +177,4 @@ Message body...
 - **Description length**: proportional to diff complexity — avoid empty
   descriptions or unnecessarily long walls of text.
 
-Always remember to ask the user if the questions suits him
+Always remember to ask the user if the questions suits him, be precise in the commit message about the files changed.
