@@ -176,5 +176,3 @@ Message body...
 - **Tone**: professional, concise, business-value oriented (not pure tech jargon).
 - **Description length**: proportional to diff complexity — avoid empty
   descriptions or unnecessarily long walls of text.
-
-Always remember to ask the user if the questions suits him
